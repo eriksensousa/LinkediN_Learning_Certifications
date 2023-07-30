@@ -13,4 +13,4 @@
 - 4 LinkediN Learning
 
 
-#### Author: Eriksen Sousa
+#### Author: Eriksen Sousa [LinkediN](https://www.linkedin.com/in/eriksensousa)
