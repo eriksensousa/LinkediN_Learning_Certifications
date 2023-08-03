@@ -1,7 +1,7 @@
 # LinkediN Learning Certifications
 
 ## 
-![LinkediN Learning](https://github.com/eriksensousa/LinkediN_Learning_Certifications/assets/126014537/ee7ea1c4-f533-42ad-8a46-f4ba7920f91c)
+![LinkediN Learning](https://github.com/eriksensousa/LinkediN_Learning_Certifications/assets/126014537/822a0f28-e92a-42c3-bc7a-b1e8a64051cb)
 
 ### Gathering all learning paths and achievements over the last year via Linkedin Learning
 
