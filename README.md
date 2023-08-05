@@ -11,11 +11,11 @@
 - 2 LinkediN Learning
 - 3 LinkediN Learning
 - 4 LinkediN Learning
-- 5 HR Certification Institute® (HRCI®)
+- 5 HR Certification Institute (HRCI®)
 - 6 International Institute of Business Analysis (IIBA®)
-- 7 National Association of State Boards of Accountancy (NASBA)
-- 8.1 Project Management Institute (PMI)®
-- 8.2 Project Management Institute (PMI)®
+- 7 National Association of State Boards of Accountancy (NASBA®)
+- 8.1 Project Management Institute (PMI®)
+- 8.2 Project Management Institute (PMI®)
 - 9 Society for Human Resource Management (SHRM®)
 
 
